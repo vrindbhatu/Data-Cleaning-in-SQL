@@ -15,5 +15,9 @@ Query 2: For the second query I have populated the missing data in the property 
 
 Ouput for the resulted query:
 
+<img width="758" alt="ResultOfQuery2" src="https://user-images.githubusercontent.com/70003172/175834455-61225bb4-8749-4c67-8f81-b7a6e47251e7.png">
+
+As you can see in the above image that all the missing values for the column propertyAddress is being filled.
+
 
 
