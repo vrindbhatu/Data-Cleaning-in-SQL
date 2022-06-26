@@ -43,6 +43,10 @@ Query 5:  For the last quesy I have removed all the duplicated from the table
 Ouput for the resulted query:
 
 
+<img width="847" alt="ResultOfQuery5" src="https://user-images.githubusercontent.com/70003172/175835138-c31c670a-0bc6-499d-ade0-87b9e4cc4f9a.png">
+
+
+
 
 
 
