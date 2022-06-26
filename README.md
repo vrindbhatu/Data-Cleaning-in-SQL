@@ -19,5 +19,10 @@ Ouput for the resulted query:
 
 As you can see in the above image that all the missing values for the column propertyAddress is being filled.
 
+Query 3:  For the third query I have splitted propertyAddress and OwnerAddress into address, city and state colume.
+
+Ouput for the resulted query:
+
+
 
 
