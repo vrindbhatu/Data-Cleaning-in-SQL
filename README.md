@@ -33,6 +33,16 @@ Query 4:  For the forth query I have cleaned the "Sold as Vacant" column. It had
 
 Ouput for the resulted query:
 
+<img width="534" alt="ResultOfQuery4" src="https://user-images.githubusercontent.com/70003172/175835080-ff6b86cb-2bde-47c7-bd21-debd0113c630.png">
+
+
+
+Query 5:  For the last quesy I have removed all the duplicated from the table
+
+
+Ouput for the resulted query:
+
+
 
 
 
